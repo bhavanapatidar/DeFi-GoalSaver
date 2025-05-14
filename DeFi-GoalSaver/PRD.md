@@ -252,4 +252,19 @@ To revolutionize personal savings by leveraging blockchain technology and DeFi p
 - Smart contract standards
 - Security best practices
 - Regulatory guidelines
-- Technical documentation 
+- Technical documentation
+
+## 12. Frontend Integration
+
+To start the development server:
+```bash
+npm run dev
+```
+
+To install the required dependencies:
+```bash
+npm install @apollo/client graphql
+```
+
+const SAVER_TOKEN_ADDRESS = 'YOUR_DEPLOYED_TOKEN_ADDRESS';
+const SAVER_BADGE_ADDRESS = 'YOUR_DEPLOYED_BADGE_ADDRESS';
