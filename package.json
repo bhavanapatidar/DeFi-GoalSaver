@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^4.9.0",
+    "dotenv": "^16.5.0",
+    "hardhat": "^2.24.0"
+  },
+  "dependencies": {
+    "@web3-react/core": "^8.2.3",
+    "@web3-react/injected-connector": "^6.0.7",
+    "eventemitter3": "^5.0.1"
+  }
+}
